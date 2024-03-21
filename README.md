@@ -1,3 +1,7 @@
+<div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=danrynr.AI-Subtitle-OpenAI-Whisper" />
+</div>
+
 # AI-Subtitle-OpenAI-Whisper
 Tailored for the best transcribing outcome.
 
